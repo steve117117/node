@@ -1,4 +1,4 @@
-services:
+что?services:
   geth: # this is Optimism's geth client
     build: .
     ports:
